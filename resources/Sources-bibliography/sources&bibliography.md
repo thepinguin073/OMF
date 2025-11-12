@@ -1,0 +1,15 @@
+# Sources and bibliography
+- https://en.wikipedia.org/wiki/Intelligence_cycle
+- https://www.cia.gov/resources/csi/static/Tradecraft-Primer-apr09.pdf
+- https://www.act.nato.int/wp-content/uploads/2023/05/alta-handbook.pdf
+- https://www.researchgate.net/publication/395253126_Method_for_assessing_the_state_of_information_and_analytical_support_of_military_control_bodies_using_a_metaheuristic_algorithm
+- https://www.cia.gov/resources/csi/static/Pyschology-of-Intelligence-Analysis.pdf
+- https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/161442/
+- https://fr.wikipedia.org/wiki/Z%C3%A9t%C3%A9tique
+- https://fr.wikipedia.org/wiki/PRISMA_(Norme_de_r%C3%A9alisation_de_revue_syst%C3%A9matique_de_la_litt%C3%A9rature)
+- https://attack.mitre.org/
+- https://en.wikipedia.org/wiki/Analysis_of_competing_hypotheses
+- https://jcmarot.com/wp-content/uploads/2021/11/refutabilite.pdf
+- https://fr.wikipedia.org/wiki/Th%C3%A9orie_de_la_d%C3%A9cision_dans_l%27incertain
+- https://fr.wikipedia.org/wiki/Syst%C3%A8me_1_/_Syst%C3%A8me_2_:_Les_deux_vitesses_de_la_pens%C3%A9e
+- https://en.wikipedia.org/wiki/Pre-mortem
