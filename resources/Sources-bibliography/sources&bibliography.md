@@ -15,3 +15,4 @@
 - https://en.wikipedia.org/wiki/Pre-mortem
 - https://snap.stanford.edu/class/cs224w-readings/granovetter73weakties.pdf
 - https://barabasi.com/media/pub_imports/files/303.pdf
+- http://www.sietmanagement.fr/theories-de-lapprentissage-organisationnel-argyris-et-schon-nelson-et-winter/

@@ -114,7 +114,6 @@ Techniques opératoires :
 - **Analyse de graphes relationnels** : modélisation des entités (personnes, organisations, événements) et de leurs connexions
 - **Détection de co-occurrences** : analyse temporelle et spatiale des apparitions simultanées
 - **Clustering thématique** : regroupement automatique par similarité sémantique (NLP, word embeddings)
-- **Structuration en formats interopérables** : STIX/TAXII pour le partage de menaces, formats JSON-LD pour la sémantique
 
 **Justification scientifique** : La sociologie des réseaux (Granovetter, Barabási) et l'analyse comportementale démontrent que les relations implicites révèlent souvent davantage que les attributs individuels. La corrélation transforme le bruit informationnel en signal exploitable: c'est la différence entre "information" et "renseignement".
 
@@ -152,9 +151,9 @@ Développée par Richards Heuer pour la CIA, l'ACH impose une évaluation matric
 
 **Justification scientifique** : Les travaux de Kahneman & Tversky (prix Nobel d'économie 2002) démontrent que seule une méthodologie explicite permet de compenser les heuristiques cognitives défaillantes. L'intelligence humaine non structurée est systématiquement surconfiante et vulnérable aux biais.
 
-### PHASE 5 : REPORTING: Transparence et exploitabilité
+### PHASE 5 : REPORTING & FEEDBACK: Transparence, exploitabilité et amélioration continue
 
-**Principe** : Le renseignement n'a de valeur que s'il est exploitable par le décideur. Le rapport final doit être simultanément accessible et transparent méthodologiquement.
+**Principe** : Le renseignement n'a de valeur que s'il est exploitable par le décideur. Le rapport final doit être simultanément accessible et transparent méthodologiquement. Mais au-delà de la simple diffusion, cette phase initie une **boucle de rétroaction systématique** permettant l'apprentissage organisationnel et la prévention des erreurs récurrentes.
 
 Structure recommandée :
 
@@ -164,8 +163,15 @@ Structure recommandée :
 4. **Hypothèses concurrentes écartées** : justifier pourquoi elles sont moins probables
 5. **Zones d'incertitude** : lacunes informationnelles, ambiguïtés irréductibles
 6. **Recommandations opérationnelles** : actions concrètes envisageables
+7. **Mécanisme de feedback structuré** : 
+   - Évaluation post-action (après exploitation du renseignement)
+   - Documentation des écarts entre prévisions analytiques et réalité observée
+   - Identification des défaillances méthodologiques et biais non détectés
+   - Capitalisation des leçons apprises dans une base de connaissances collective
 
-**Justification scientifique** : La théorie de la décision en environnement incertain (Herbert Simon, prix Nobel 1978) exige que le décideur reçoive non seulement une conclusion, mais également les paramètres d'incertitude associés. Une décision rationnelle nécessite la compréhension des limites épistémiques du renseignement.
+**Justification scientifique** : La théorie de la décision en environnement incertain (Herbert Simon, prix Nobel 1978) exige que le décideur reçoive non seulement une conclusion, mais également les paramètres d'incertitude associés. Une décision rationnelle nécessite la compréhension des limites épistémiques du renseignement. 
+
+Par ailleurs, les travaux de Chris Argyris sur l'apprentissage organisationnel démontrent que seule une boucle de feedback explicite permet d'éviter la reproduction systématique des erreurs historiques. Sans mécanisme de rétroaction formalisé, les organisations sont condamnées à répéter indéfiniment les mêmes défaillances analytiques. Le feedback transforme chaque investigation en opportunité d'amélioration collective, créant ainsi un effet d'accumulation de l'expertise méthodologique.
 
 ---
 
