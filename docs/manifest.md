@@ -184,10 +184,6 @@ Chaque praticien peut situer sa démarche dans un référentiel universel. Exemp
 - **Technique** : Analyse de graphes sociaux
 - **Sous-technique** : Détection de communautés par modularité
 
-### Une interopérabilité outillée
-
-Intégration native avec Maltego, SpiderFoot, Shodan, theHarvester et autres plateformes via des formats standardisés. Les techniques du framework doivent pouvoir être exécutées de manière semi-automatisée tout en préservant la traçabilité.
-
 ### Une base de connaissances collaborative
 
 Documentation vivante des techniques : cas d'usage documentés, limitations méthodologiques, contre-mesures OPSEC, évolutions jurisprudentielles. Contribution ouverte selon le modèle Wikipédia avec validation par pairs.

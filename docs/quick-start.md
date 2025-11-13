@@ -399,8 +399,8 @@ amateur compétent plutôt qu'un professionnel établi.
 |-------|-------|------|
 | **Maltego** | Graphes relationnels | Gratuit (limité) |
 | **SpiderFoot** | Automation OSINT | Gratuit (open source) |
-| **Shodan** | Recherche d'appareils IoT | $49/mois |
-| **IntelligenceX** | Moteur de recherche OSINT | $9/mois |
+| **Shodan** | Recherche d'appareils IoT | Gratuit (limité) |
+| **IntelligenceX** | Moteur de recherche OSINT | Gratuit (limité) |
 
 ### Pour l'OPSEC
 
