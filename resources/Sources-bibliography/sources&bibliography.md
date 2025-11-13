@@ -13,3 +13,5 @@
 - https://fr.wikipedia.org/wiki/Th%C3%A9orie_de_la_d%C3%A9cision_dans_l%27incertain
 - https://fr.wikipedia.org/wiki/Syst%C3%A8me_1_/_Syst%C3%A8me_2_:_Les_deux_vitesses_de_la_pens%C3%A9e
 - https://en.wikipedia.org/wiki/Pre-mortem
+- https://snap.stanford.edu/class/cs224w-readings/granovetter73weakties.pdf
+- https://barabasi.com/media/pub_imports/files/303.pdf

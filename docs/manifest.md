@@ -64,7 +64,7 @@ Une conclusion présentée avec un niveau de confiance inapproprié: trop élev�
 
 ### E. La proportionnalité méthodologique
 
-La rigueur n'est pas une fin en soi, mais un moyen au service d'objectifs investigatifs. Le framework OSINT propose trois **niveaux d'application différenciés** :
+La rigueur n'est pas une fin en soi, mais un moyen au service d'objectifs investigatifs. L'OSINT Methodology Framework (OMF) propose trois **niveaux d'application différenciés** :
 
 - **Quick Investigation** (80% des cas) : requêtes rapides, enjeux faibles, documentation minimale
 - **Standard Professional** (15% des cas) : investigations sérieuses, usage professionnel, rapport structuré
@@ -192,7 +192,7 @@ Documentation vivante des techniques : cas d'usage documentés, limitations mét
 
 ## V. GOUVERNANCE : ÉVOLUTION COMMUNAUTAIRE ET VALIDATION PAR LES PAIRS
 
-Le framework OSINT n'est pas une doctrine figée, mais un **organisme méthodologique vivant** qui évolue par contributions communautaires. Toutefois, pour préserver sa rigueur épistémologique, tout nouveau taxon (tactique, technique, sous-technique) doit satisfaire à des critères stricts :
+OMF n'est pas une doctrine figée, mais un **organisme méthodologique vivant** qui évolue par contributions communautaires. Toutefois, pour préserver sa rigueur épistémologique, tout nouveau taxon (tactique, technique, sous-technique) doit satisfaire à des critères stricts :
 
 ### Critères d'admission
 
@@ -227,7 +227,7 @@ La zététique: étude rationnelle des phénomènes prétendument paranormaux et
 
 ## VII. IMPÉRATIF ÉTHIQUE : POUVOIR ET RESPONSABILITÉ
 
-Le framework OSINT confère à ses praticiens une capacité d'investigation inédite. Cette puissance analytique s'accompagne d'une **responsabilité éthique et juridique absolue**.
+OSINT Methodology Framework confère à ses praticiens une capacité d'investigation inédite. Cette puissance analytique s'accompagne d'une **responsabilité éthique et juridique absolue**.
 
 ### Respect des normes en vigueur
 
