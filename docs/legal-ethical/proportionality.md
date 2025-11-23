@@ -68,7 +68,7 @@ Usage judiciaire/institutionnel  → Full Rigor (1-4 semaines)
 **Risque sans proportionnalité :**
 ```
 Analyste : "Je dois vérifier si ce compte Twitter existe"
-Chef : "Remplissez le formulaire PIR, générez 5 hypothèses ACH, 
+Chef : "Remplissez le formulaire PIR (Priority Intelligence Requirements), générez 5 hypothèses ACH, 
         documentez la chaîne de custody SHA-256, rédigez un 
         rapport de 15 pages avec peer review"
 Analyste : "Euh... laisse tomber, je regarde pas"
